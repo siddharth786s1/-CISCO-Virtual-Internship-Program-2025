@@ -49,6 +49,8 @@ This project demonstrates the design and implementation of a secure campus netwo
 ## 🛠️ Technologies Used
 
 - **Cisco Packet Tracer** - Network simulation platform
+- **Python** - Automation and scripting
+- **MySQL** - Database management
 - **Multiple Routing Protocols** - OSPF, EIGRP, RIP
 - **VLANs** - Virtual Local Area Networks
 - **Security Protocols** - Access control and authentication
@@ -59,6 +61,8 @@ This project demonstrates the design and implementation of a secure campus netwo
 ### Prerequisites
 
 - Cisco Packet Tracer (version 7.0 or later)
+- Python 3.13.2 or later
+- MySQL Workbench
 - Basic understanding of networking concepts
 - Knowledge of IP addressing and subnetting
 
@@ -126,6 +130,20 @@ This project demonstrates the design and implementation of a secure campus netwo
 - Latency measurements
 - Packet loss analysis
 
+## 💼 Related Projects
+
+### Airlines Management System in Salesforce
+- Created and tracked flight details and schedules
+- Implemented user roles and security
+- Created reports and dashboards to visualize flight data
+
+### Medical Chatbot
+- Developed using Python, Flask, Google Generative AI (Gemini API)
+- Features: LangChain, FAISS, and Hugging Face integration
+- PDF upload and processing capabilities
+- AI-powered question answering
+- User-friendly web interface
+
 ## 📖 Documentation
 
 ### Available Reports
@@ -140,18 +158,60 @@ This project demonstrates the design and implementation of a secure campus netwo
 4. **Results**: Simulation outcomes and performance analysis
 5. **Conclusion**: Key findings and future recommendations
 
-## 👥 Team Members
+## 👨‍💻 Developer Profile
 
-- **Hamza Umar** (FA19-BCE-026)
-- **Muhammad Kaleem Ullah** (FA19-BCE-007)
+### **Siddharth Choure**
+**B.Tech Computer Science Engineering Student**  
+**LNCT University, Bhopal (M.P.)**
 
-### Supervision
-- **Course Instructor**: Dr. Shujat Khan Tanoli
-- **Lab Instructor**: Engr. Ayesha Saqib
+#### Contact Information
+- **Location**: Wathoda, Nagpur, (M.H.), India
+- **Phone**: +91 8668970793
+- **Email**: siddharthchoure5@gmail.com
 
-### Institution
-**COMSATS University Islamabad, Attock Campus**  
-Department of Electrical and Computer Engineering
+#### Education
+- **B.Tech in Computer Science Engineering** - LNCT University, Bhopal (CGPA: 7.99%)
+- **12th Grade (M.H. State Board)** - Adarsh Sankar Vidyalaya, Nagpur (94.67% - 2021)
+- **10th Grade (M.H. State Board)** - Adarsh Sankar Vidyalaya, Nagpur (84.8% - 2019)
+
+#### Professional Experience
+- **Generative AI Virtual Internship** - Skillible/AICTE (July-August 2024)
+  - 6-week internship focusing on Generative AI concepts
+  - Gained proficiency in Prompt Engineering techniques
+  
+- **Industrial Training** - Raymond Limited IT Department, Chhindwara, M.P. (Feb 2024)
+  - Assisted with troubleshooting network issues
+  - Developed problem-solving skills in enterprise environment
+
+#### Technical Skills
+- **Programming**: Python, MySQL, Data Analytics, DBMS
+- **Tools**: MySQL Workbench, Jupyter Notebook, IntelliJ IDEA, NetBeans IDE, Python IDLE
+- **Development**: Front-End Development, Git & GitHub
+- **Design**: Canva
+
+#### Soft Skills
+- Leadership & Mentorship
+- Project Management
+- Teamwork & Collaboration
+- Communication Skills
+
+#### Achievements & Certifications
+- **Achievements**:
+  - "Third Position" at The Ideation Fiesta
+  - Top 30 Team at IDs 4.0 Yuva Hackathon
+  - Internal SIH winner
+  - 3rd rank in Shri Ganesh Idol Making Competition
+
+- **Certifications**:
+  - Crash Course on Python
+  - IBM Cybersecurity Analyst
+  - Google Advanced Data Analytics Capstone
+
+#### Leadership Positions
+- NASA Space APP - Bhopal Lead
+- Team Lead of SIH Team
+- CII-YI Chair (Entrepreneur) Core
+- Team Lead in YUVA Hackathon
 
 ## 🎓 Learning Outcomes
 
@@ -162,6 +222,7 @@ Upon completion of this project, students will have gained:
 - Knowledge of VLAN implementation and management
 - Skills in network security configuration
 - Experience with network simulation and testing tools
+- Integration of AI and automation in network management
 
 ## 🔮 Future Enhancements
 
@@ -169,27 +230,29 @@ Upon completion of this project, students will have gained:
 - **SD-WAN Integration**: Software-defined networking capabilities
 - **Cloud Connectivity**: Hybrid cloud network integration
 - **IoT Device Support**: Enhanced support for Internet of Things devices
-- **Network Automation**: Automated configuration and monitoring
+- **Network Automation**: Automated configuration and monitoring using Python
+- **AI-Powered Network Management**: Integration of machine learning for predictive maintenance
 
 ## 📞 Support & Contact
 
 For questions, issues, or contributions related to this project:
 
-- **University Email**: Contact through COMSATS University Islamabad
+- **Developer Email**: siddharthchoure5@gmail.com
+- **Phone**: +91 8668970793
 - **Project Repository**: Submit issues through the repository issue tracker
-- **Academic Supervisor**: Dr. Shujat Khan Tanoli
+- **LinkedIn**: Connect for professional networking
 
 ## 📜 License
 
-This project is developed for educational purposes as part of the CISCO Virtual Internship Program 2025. All rights reserved by the respective authors and COMSATS University Islamabad.
+This project is developed for educational purposes as part of the CISCO Virtual Internship Program 2025. All rights reserved by Siddharth Choure and LNCT University, Bhopal.
 
 ## 🙏 Acknowledgments
 
 - **CISCO Systems** for providing the Packet Tracer simulation platform
-- **COMSATS University Islamabad** for academic support and resources
+- **LNCT university bhopal ** for academic support and resources
 - **Course Instructors** for guidance and supervision throughout the project
 - **Networking Community** for valuable resources and documentation
 
 ---
 
-*This project demonstrates the practical application of networking concepts in a real-world university campus scenario, providing valuable hands-on experience with enterprise network design and implementation.*
+*This project demonstrates the practical application of networking concepts combined with modern technologies like AI and automation, providing valuable hands-on experience with enterprise network design and implementation.*
